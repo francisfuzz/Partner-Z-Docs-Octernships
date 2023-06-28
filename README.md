@@ -43,7 +43,7 @@ To participate, you must be:
 
 <!--- Please add expectations that students need to follow to be considered. Some examples include: completing the project on their own, not using code from external resources without comprehending the logic, etc.  --->
 
-### Task submission 🚀
+### Task submission 
 
 Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. 
 
